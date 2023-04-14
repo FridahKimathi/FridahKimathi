@@ -9,8 +9,8 @@ I am an aspiring data scientist with expertise in data analysis, visualization, 
 
 ## Language Stats
 ***
-![Fridah's GitHub stats](https://github-readme-stats.vercel.app/api?username=FridahKimathi&show_icons=true&theme=dracula)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FridahKimathi&show_icons=true&locale=en&layout=compact" alt"Fridah's language stats" /></p>
 
 ### GitHub Stats
 ***
-![Fridah's Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FridahKimathi&theme=ff69b4)
+![Fridah's GitHub stats](https://github-readme-stats.vercel.app/api?username=FridahKimathi&show_icons=true&theme=dracula)

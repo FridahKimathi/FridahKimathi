@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Fridah!</h1>
+### <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm _Fridah!_</h1>
 
 I am a data scientist with expertise in data analysis, visualization, and machine learning. My goal is to utilize these skills to drive impactful business outcomes in a collaborative and innovative environment. I thrive on continuous learning and development, and have experience developing predictive models using Scikit-Learn and Keras and working with SQL, Tableau, and Python for data preparation, analysis and visualization.
 
@@ -13,6 +13,7 @@ I am a data scientist with expertise in data analysis, visualization, and machin
   <img src="https://velog.velcdn.com/images/hyeongjun/post/ab925b3c-1f60-4205-8a47-17bf699b174c/image.png" title="Scikit-learn" alt="scikit-learn" height="70" width="70"/>&nbsp;
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" title="Tableau" alt="tableau" height="40" width="80"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" height="40" width="40"/>&nbsp;
+   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" title="Matplotlib" alt="Matplotlib" height="50" width="50"/>&nbsp;
   <img src="https://editor.analyticsvidhya.com/uploads/609821.1.jpg" title="Pyspark" alt="pyspark" height="40" width="80"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="tensorflow" height="40" width="40"/>&nbsp;
 </p>

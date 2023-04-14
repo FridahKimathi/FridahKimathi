@@ -11,8 +11,8 @@ I am a data scientist with expertise in data analysis, visualization, and machin
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/pandas-dev/pandas/blob/main/web/pandas/static/img/pandas.svg" title="Pandas" alt="pandas" width="100" height="40" /> </a>&nbsp;
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.svg" title="Numpy" alt="numpy"  width="40" height="40" /> </a>&nbsp;
   <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" title="Scikit-learn" alt="scikit-learn" height="150" width="150"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" title="Tableau" alt="tableau" height="40" width="100"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" height="40" width="100"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" title="Tableau" alt="tableau" height="40" width="80"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" height="40" width="80"/>&nbsp;
   <img src="https://editor.analyticsvidhya.com/uploads/609821.1.jpg" title="Pyspark" alt="pyspark" height="40" width="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="tensorflow" height="40" width="40"/>&nbsp;
 </p>

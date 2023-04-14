@@ -19,7 +19,7 @@ I am a data scientist with expertise in data analysis, visualization, and machin
 
 ## Language Stats
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FridahKimathi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FridahKimathi&layout=compact&theme=vision-friendly-dark)
 
 ### GitHub Stats
 ***

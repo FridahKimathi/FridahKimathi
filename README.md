@@ -14,7 +14,7 @@ I am a data scientist with expertise in data analysis, visualization, and machin
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" title="Tableau" alt="tableau" height="40" width="80"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" height="40" width="40"/>&nbsp;
    <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" title="Matplotlib" alt="Matplotlib" height="40" width="100"/>&nbsp;
-  <img src="https://editor.analyticsvidhya.com/uploads/609821.1.jpg" title="Pyspark" alt="pyspark" height="40" width="80"/>&nbsp;
+  <img src="https://editor.analyticsvidhya.com/uploads/609821.1.jpg" title="Pyspark" alt="pyspark" height="40" width="100"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="tensorflow" height="40" width="40"/>&nbsp;
 </p>
 

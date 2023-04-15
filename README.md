@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm _Fridah!_</h1>
+### <h1 align="center">Hi there <img src="https://media1.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=6c09b9522a24599f78348fe6970a9d3963f31f3bbefe9e95&rid=giphy.gif&ct=s" width="40">, I'm _Fridah!_</h1>
 
 I am a data scientist with expertise in data analysis, visualization, and machine learning. My goal is to utilize these skills to drive impactful business outcomes in a collaborative and innovative environment. I thrive on continuous learning and development, and have experience developing predictive models using Scikit-Learn and Keras and working with SQL, Tableau, and Python for data preparation, analysis and visualization.
 

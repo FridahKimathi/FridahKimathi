@@ -23,8 +23,8 @@ I am a data scientist with expertise in data analysis, visualization, and machin
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="scikit-learn" height="40" width="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="tableau" height="40" width="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" height="40" width="40"/>&nbsp;
-   <img src="https://matplotlib.org/2.0.0/_static/logo2.svg" title="Matplotlib" alt="Matplotlib" height="40" width="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Pyspark" alt="pyspark" height="40" width="40"/>&nbsp;
+   <img src="https://matplotlib.org/2.0.0/_static/logo2.svg" title="Matplotlib" alt="Matplotlib" height="50" width="80"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Pyspark" alt="pyspark" height="50" width="80"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="tensorflow" height="40" width="40"/>&nbsp;
 </p>
 

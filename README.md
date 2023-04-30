@@ -2,10 +2,6 @@
 
 I am a data scientist with expertise in data analysis, visualization, and machine learning. My goal is to utilize these skills to drive impactful business outcomes in a collaborative and innovative environment. I thrive on continuous learning and development, and have experience developing predictive models using Scikit-Learn and Keras and working with SQL, Tableau, and Python for data preparation, analysis and visualization.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## Connect with me
 ***
 <p align="left">
@@ -25,10 +21,10 @@ I am a data scientist with expertise in data analysis, visualization, and machin
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/pandas-dev/pandas/blob/main/web/pandas/static/img/pandas.svg" title="Pandas" alt="pandas" width="100" height="40" /> </a>&nbsp;
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.svg" title="Numpy" alt="numpy"  width="40" height="40" /> </a>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="scikit-learn" height="40" width="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" title="Tableau" alt="tableau" height="40" width="80"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="tableau" height="40" width="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" height="40" width="40"/>&nbsp;
-   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" title="Matplotlib" alt="Matplotlib" height="40" width="100"/>&nbsp;
-  <img src="https://editor.analyticsvidhya.com/uploads/609821.1.jpg" title="Pyspark" alt="pyspark" height="40" width="100"/>&nbsp;
+   <img src="https://matplotlib.org/2.0.0/_static/logo2.svg" title="Matplotlib" alt="Matplotlib" height="40" width="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Pyspark" alt="pyspark" height="40" width="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="tensorflow" height="40" width="40"/>&nbsp;
 </p>
 

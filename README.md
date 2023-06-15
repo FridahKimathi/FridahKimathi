@@ -2,13 +2,6 @@
 
 I am a data scientist with expertise in data analysis, visualization, and machine learning. My goal is to utilize these skills to drive impactful business outcomes in a collaborative and innovative environment. I thrive on continuous learning and development, and have experience developing predictive models using Scikit-Learn and Keras and working with SQL, Tableau, and Python for data preparation, analysis and visualization.
 
-## Connect with me
-***
-<p align="left">
-<a href="https://linkedin.com/in/https://github.com/fridahkimathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/fridahkimathi" height="30" width="40" /></a>
-<a href="https://medium.com/@fridahkimathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fridahkimathi" height="30" width="40" /></a>
-</p>
-
 ## Languages, Databases and Libraries
 ***
 <p align="left">
@@ -31,10 +24,3 @@ I am a data scientist with expertise in data analysis, visualization, and machin
 ## Language Stats
 ***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FridahKimathi&layout=compact&theme=vision-friendly-dark)
-
-## GitHub Stats
-***
-![Fridah's GitHub stats](https://github-readme-stats.vercel.app/api?username=FridahKimathi&show_icons=true&theme=vision-friendly-dark)
-
-## Highlighted Projects
-***
